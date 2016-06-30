@@ -2,7 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="admi.payment">
 
-    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -20,7 +21,8 @@
         <activity android:name=".DebitCard" />
         <activity android:name=".NetBanking" />
         <activity android:name=".Wallet" />
-        <activity android:name=".ServerData"></activity>
+        <activity android:name=".ServerData" />
+        <activity android:name=".GitHub"></activity>
     </application>
 
 </manifest>
