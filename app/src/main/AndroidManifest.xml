@@ -21,7 +21,7 @@
         <activity android:name=".DebitCard" />
         <activity android:name=".NetBanking" />
         <activity android:name=".Wallet" />
-        <activity android:name=".ServerData" />
+        <!--<activity android:name=".ServerData" />-->
         <activity android:name=".GitHub"></activity>
     </application>
 
